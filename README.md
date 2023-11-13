@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello, I'm Yovko Dobrev 👋
 
-<!--
-**yDobreff/yDobreff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Student passionate about learning Programming, Computer Networking, System Administration, Blockchain Development, Cybersecurity and Ethical Hacking.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Python
+- Frameworks: Django
+- Tools: Visual Studio Code, Oracle VM VirtualBox, Microsoft Office 365
+- Databases: PostgreSQL, DataGrip
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- JavaScript, HTML, CSS, DOM, Rest
+
+## 💬 Let's connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dobrefff/). I'm always open to interesting conversations and collaboration.
