@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Student passionate about learning Programming, Computer Networking, System Administration, Blockchain Development, Cybersecurity and Ethical Hacking.
 
 ## 🔧 Technologies & Tools
-- Languages: Python
+- Languages: Python <img src="data:image/svg+xml;base64,[SVG_CODE_HERE](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)" alt="Icon" />
 - Frameworks: Django
 - Tools: Visual Studio Code, Oracle VM VirtualBox, Microsoft Office 365
 - Databases: PostgreSQL, DataGrip
