@@ -1,9 +1,13 @@
 ![Header Image](header.png)
 
 
-# Hello, I'm Yovko Dobrev 👋
+<div align="center">
+  <h1>Hello, I'm Yovko Dobrev 👋</h1>
+</div>
 
+<div align="center">
 Welcome to my GitHub profile! I'm a Student passionate about learning Programming, Computer Networking, System Administration, Blockchain Development, Cybersecurity and Ethical Hacking.
+</div>
 
 ## 🔧 Technologies & Tools
 - Languages:
@@ -27,4 +31,6 @@ Welcome to my GitHub profile! I'm a Student passionate about learning Programmin
 <a href="https://facebook.com/yovko.dobreff/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" alt="Dobreff`s | Facebook" width="48" height="48"/></a>
 </br>
 
+<h1 align="center"> <br>
 Feel free to reach out to me! I'm always open to interesting conversations and collaboration.
+</div></h1>
