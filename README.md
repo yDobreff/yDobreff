@@ -22,7 +22,13 @@ Welcome to my GitHub profile! I'm a Student passionate about learning Programmin
 
 
 ## 🌱 I’m currently learning
+[![SQLAlchemy](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/80px-SQLAlchemy.svg.png)](https://your-link-here.com)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
+
+
 
 ## 💬 Connect with me:
 
